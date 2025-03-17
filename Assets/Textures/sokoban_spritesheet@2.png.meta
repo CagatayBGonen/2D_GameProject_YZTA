@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sokoban_spritesheet@2_0: 319424274563163581
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
