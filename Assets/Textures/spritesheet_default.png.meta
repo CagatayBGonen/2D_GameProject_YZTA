@@ -208,15 +208,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: spritesheet_default_0
+      name: House01
       rect:
         serializedVersion: 2
         x: 0
-        y: 731
-        width: 282
-        height: 364
+        y: 878
+        width: 280
+        height: 217
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -230,15 +230,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spritesheet_default_1
+      name: Cloud04
       rect:
         serializedVersion: 2
         x: 280
-        y: 938
-        width: 198
-        height: 157
+        y: 939
+        width: 197
+        height: 156
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -252,15 +252,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spritesheet_default_2
+      name: Fence01
       rect:
         serializedVersion: 2
-        x: 476
-        y: 973
-        width: 122
-        height: 122
+        x: 477
+        y: 974
+        width: 120
+        height: 121
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -274,15 +274,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spritesheet_default_3
+      name: Tree15
       rect:
         serializedVersion: 2
-        x: 596
-        y: 961
-        width: 25
-        height: 134
+        x: 597
+        y: 1030
+        width: 23
+        height: 65
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -296,15 +296,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spritesheet_default_4
+      name: PyramidAztec
       rect:
         serializedVersion: 2
-        x: 625
-        y: 479
-        width: 229
-        height: 616
+        x: 250
+        y: 730
+        width: 204
+        height: 148
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -318,15 +318,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spritesheet_default_5
+      name: House02
       rect:
         serializedVersion: 2
-        x: 837
-        y: 657
-        width: 111
-        height: 438
+        x: 0
+        y: 369
+        width: 240
+        height: 217
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -340,59 +340,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spritesheet_default_6
-      rect:
-        serializedVersion: 2
-        x: 946
-        y: 845
-        width: 84
-        height: 250
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 98382de102a1c85c0800000000000000
-      internalID: -4211962826239868023
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spritesheet_default_7
-      rect:
-        serializedVersion: 2
-        x: 1028
-        y: 955
-        width: 39
-        height: 140
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 76de065d98424afd0800000000000000
-      internalID: -2331698532662055577
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spritesheet_default_8
+      name: Bush01
       rect:
         serializedVersion: 2
         x: 280
-        y: 879
+        y: 880
         width: 126
-        height: 61
+        height: 59
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -406,15 +362,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spritesheet_default_9
+      name: Grass09
       rect:
         serializedVersion: 2
-        x: 404
-        y: 883
-        width: 47
-        height: 57
+        x: 406
+        y: 884
+        width: 46
+        height: 55
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -428,15 +384,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spritesheet_default_10
+      name: Pyramid
       rect:
         serializedVersion: 2
-        x: 452
-        y: 614
-        width: 175
-        height: 326
+        x: 240
+        y: 386
+        width: 205
+        height: 200
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -450,15 +406,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spritesheet_default_11
+      name: Tree16
       rect:
         serializedVersion: 2
-        x: 0
-        y: 585
-        width: 455
-        height: 294
+        x: 597
+        y: 962
+        width: 23
+        height: 68
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -472,15 +428,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spritesheet_default_12
+      name: Cloud05
       rect:
         serializedVersion: 2
-        x: 556
-        y: 611
-        width: 80
-        height: 82
+        x: 0
+        y: 230
+        width: 216
+        height: 139
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -494,81 +450,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spritesheet_default_13
-      rect:
-        serializedVersion: 2
-        x: 852
-        y: 608
-        width: 32
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e9c36eb5082c10c80800000000000000
-      internalID: -8358185576869512034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spritesheet_default_14
-      rect:
-        serializedVersion: 2
-        x: 870
-        y: 12
-        width: 135
-        height: 647
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7d7a00fd521ab88f0800000000000000
-      internalID: -537158546513418281
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spritesheet_default_15
-      rect:
-        serializedVersion: 2
-        x: 974
-        y: 26
-        width: 84
-        height: 821
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4ff83c657a9df9d60800000000000000
-      internalID: 7899271584169562100
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spritesheet_default_16
+      name: Cloud06
       rect:
         serializedVersion: 2
         x: 0
-        y: 229
-        width: 242
-        height: 358
+        y: 91
+        width: 216
+        height: 139
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -582,15 +472,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spritesheet_default_17
+      name: Bush02
       rect:
         serializedVersion: 2
-        x: 215
-        y: 0
-        width: 578
-        height: 454
+        x: 0
+        y: 44
+        width: 141
+        height: 47
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -604,15 +494,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spritesheet_default_18
+      name: Grass01
       rect:
         serializedVersion: 2
-        x: 240
-        y: 385
-        width: 206
-        height: 202
+        x: 0
+        y: 0
+        width: 53
+        height: 44
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -626,15 +516,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spritesheet_default_19
+      name: Grass02
       rect:
         serializedVersion: 2
-        x: 444
-        y: 402
-        width: 198
-        height: 208
+        x: 53
+        y: 9
+        width: 49
+        height: 35
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -648,15 +538,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spritesheet_default_20
+      name: Tree20
       rect:
         serializedVersion: 2
-        x: 640
-        y: 453
-        width: 78
-        height: 48
+        x: 103
+        y: 1
+        width: 20
+        height: 43
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -670,15 +560,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spritesheet_default_21
+      name: HouseSmall04
       rect:
         serializedVersion: 2
-        x: 791
-        y: 33
-        width: 103
-        height: 562
+        x: 795
+        y: 34
+        width: 76
+        height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -692,15 +582,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spritesheet_default_22
+      name: Wall01
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 217
-        height: 231
+        x: 141
+        y: 31
+        width: 60
+        height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -714,15 +604,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spritesheet_default_23
+      name: HouseSmall03
       rect:
         serializedVersion: 2
-        x: 718
-        y: 19
-        width: 78
-        height: 72
+        x: 719
+        y: 20
+        width: 76
+        height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -735,11 +625,1111 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Cloud01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 732
+        width: 250
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74c96f3e8a5ff54a85260f587c15bee
+      internalID: 1970629363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud02
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 586
+        width: 250
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd73182f8b98274aae286de598ea95e
+      internalID: -674763512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud03
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 609
+        width: 203
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91266c3dda4e2bb4a93ab5b573fc7a98
+      internalID: 1138740381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House03
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 145
+        width: 207
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753508fcfbf5c3c4e8f3802302d8088d
+      internalID: -1286689438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud07
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 24
+        width: 203
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231826635f3a15544984c3db64ea682d
+      internalID: -1971461379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle01
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 0
+        width: 108
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02508cdf5919a564b954a4e779309a67
+      internalID: -2086932427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle02
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 0
+        width: 108
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1fac274a6070b438963e7c6cf2c40b
+      internalID: 1554635957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush03
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 85
+        width: 120
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d7f982b9208c84daf250a9bc10e8f6
+      internalID: -4211962826239868023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall02
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 88
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc44f7167aab4cb479f57af9af72fe34
+      internalID: -2331698532662055577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree18
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 105
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f518af807acdf449fafa7b016a133e
+      internalID: -8358185576869512034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 6
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a65ff8d5e9abc4199bb511b8594585
+      internalID: -537158546513418281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass03
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 15
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3aa6d568d2f4a42b240dbfc312b90b
+      internalID: 7899271584169562100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass04
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 13
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe07df12f831424ca13e5fcfd94e260
+      internalID: -910392093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree17
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 15
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4e03cc71ba0734bac17449dfdd84b6
+      internalID: -1965191829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerSmall02
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 27
+        width: 36
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a91e4672c04d94bb20aece84fe3829
+      internalID: 1913546850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass05
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 64
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c92c063fd1a1746a232c3bc09471ee
+      internalID: -1503648187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus01
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 61
+        width: 68
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938d01968be1e3346a52c2c0035179c9
+      internalID: 1134891043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower01
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 117
+        width: 73
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fdbb567f8297e4e884dab137f209db
+      internalID: -527353288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree12
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 194
+        width: 82
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71c8c824845e1c49a7e9214bfdbc1c1
+      internalID: 1291352272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower02
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 362
+        width: 73
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24426405fd92a244892686ec095a6287
+      internalID: -517902827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree09
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 409
+        width: 82
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70eb557f5fb8e294da64204d8772c7e9
+      internalID: -12705209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree11
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 104
+        width: 101
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e129c313c1e3ba4a81c0b9d462b4013
+      internalID: -1787361499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree10
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 363
+        width: 101
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a862fcdf3e36f7d48b7e0561e99f45a8
+      internalID: 1565166159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus02
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 94
+        width: 71
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d516be478f97c2c46821d1ea26b395fe
+      internalID: 510335149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus03
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 90
+        width: 96
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccd198eee12112458dbb49ae92a8b76
+      internalID: 1696018946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree14
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 148
+        width: 201
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1663cfe1be1853d44b5f07791b7e5079
+      internalID: 486730115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House04
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 229
+        width: 168
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e458560bbe9b9ee4481f19c3eb8a672f
+      internalID: -455290265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseSmall01
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 403
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57a2c8840fabda47814ef9180333c01
+      internalID: -676740492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseSmall02
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 403
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50c49346387dd04d8ce0063756361fc
+      internalID: -1033354286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_default_48
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 392
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042a55c525a7d2347ad2dab8debc4383
+      internalID: -2003698300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud08
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 453
+        width: 196
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafd6a91ca7d3414ebf305d5c9413181
+      internalID: -1265526139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass06
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 454
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c088e6457418914e98c189051bbd237
+      internalID: 1488967414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_default_51
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 457
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab5586207dae7c4bb8a147ed2d37825
+      internalID: 924836630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass07
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 480
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d52d97f7e3f714e8673f03edf17672
+      internalID: -1843168021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass08
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 532
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebffc4b6839e3b4596222d18204a9e2
+      internalID: -1066563365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon01
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 500
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1c7d0ff1234d14b98e557e37968c46
+      internalID: 2041779479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 615
+        width: 103
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36aac0529f6ad347bb3bb901c012ee1
+      internalID: 1959993063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 612
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0219029b6112bb04eb6a1fa6260ae1f4
+      internalID: 1406223842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree13
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 692
+        width: 172
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a5b924b6c73624683f626228b8acf8
+      internalID: -563731407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree21
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 609
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6f52b1ec9114b4bbd8afdf52d4965e
+      internalID: 1638425979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree05
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 584
+        width: 106
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516e12966f0640b408a8202db785ce4f
+      internalID: -1972857340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree01
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 838
+        width: 106
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47cd457e8fe76046a6f37b4ff270b74
+      internalID: 585007075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree02
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 841
+        width: 106
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c01a97e79c7864f99f6c3ff99ec686
+      internalID: -44184084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree06
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 594
+        width: 106
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedc5e6ad92cecb49b0019079a2dce4a
+      internalID: 1756049584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree03
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 862
+        width: 95
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4e88a843a9cff4ba2bee5bc934c51c
+      internalID: -795207061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree04
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 846
+        width: 82
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26844cb648126004ba20d621887a2033
+      internalID: -1108661407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerSmall01
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1005
+        width: 38
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b9cc8b303d8b540b6b5e81d010da9b
+      internalID: -1423580322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree19
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 956
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395582fe1150d834e90f0f0fa6fe8dca
+      internalID: 1962035226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree07
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 658
+        width: 94
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b241f44474daccd41a4e0a6acfb40af9
+      internalID: -776640727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree08
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 607
+        width: 82
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afaedd77df33b684b883bc894c6f8395
+      internalID: -613180756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 67ae4d7fe7cf8df43a971ec3b7037a11
     internalID: 0
     vertices: []
     indices: 
@@ -748,7 +1738,76 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bush01: -6654251643608154267
+      Bush02: -5832522660752377908
+      Bush03: -4211962826239868023
+      Cactus01: 1134891043
+      Cactus02: 510335149
+      Cactus03: 1696018946
+      Castle01: -2086932427
+      Castle02: 1554635957
+      Cloud01: 1970629363
+      Cloud02: -674763512
+      Cloud03: 1138740381
+      Cloud04: 6920992211604364072
+      Cloud05: -6760883905233668708
+      Cloud06: 5725407912479050125
+      Cloud07: -1971461379
+      Cloud08: -1265526139
+      Fence: 1959993063
+      Fence01: -4740915770850827944
+      Grass01: 2481084204971982344
+      Grass02: -9003799321488806020
+      Grass03: 7899271584169562100
+      Grass04: -910392093
+      Grass05: -1503648187
+      Grass06: 1488967414
+      Grass07: -1843168021
+      Grass08: -1066563365
+      Grass09: -8366988449928606121
+      House01: 7814752275714677441
+      House02: 5069725386070517938
+      House03: -1286689438
+      House04: -455290265
+      HouseSmall01: -676740492
+      HouseSmall02: -1033354286
+      HouseSmall03: 2120637544823580857
+      HouseSmall04: -7791477421285957324
+      Moon: 1406223842
+      Moon01: 2041779479
+      Pyramid: 8170798025230534844
+      PyramidAztec: -3307288631444210258
+      Sun: -537158546513418281
+      Tower01: -527353288
+      Tower02: -517902827
+      TowerSmall01: -1423580322
+      TowerSmall02: 1913546850
+      Tree01: 585007075
+      Tree02: -44184084
+      Tree03: -795207061
+      Tree04: -1108661407
+      Tree05: -1972857340
+      Tree06: 1756049584
+      Tree07: -776640727
+      Tree08: -613180756
+      Tree09: -12705209
+      Tree10: 1565166159
+      Tree11: -1787361499
+      Tree12: 1291352272
+      Tree13: -563731407
+      Tree14: 486730115
+      Tree15: 5564033804792488463
+      Tree16: 2593743623052729465
+      Tree17: -1965191829
+      Tree18: -8358185576869512034
+      Tree19: 1962035226
+      Tree20: -2492125361009974894
+      Tree21: 1638425979
+      Wall01: 4884829787658739679
+      Wall02: -2331698532662055577
+      spritesheet_default_48: -2003698300
+      spritesheet_default_51: 924836630
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
