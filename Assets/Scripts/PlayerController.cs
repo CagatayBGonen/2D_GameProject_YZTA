@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class CharacterController : MonoBehaviour
+public class PlayerController : MonoBehaviour
 {
     [SerializeField]
     private float speed = 10f;
@@ -34,7 +34,7 @@ public class CharacterController : MonoBehaviour
     }
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space)) 
+        if (Input.GetKeyDown(KeyCode.Space))
         {
             if (isStarted && isGrounded)
             {
@@ -44,16 +44,16 @@ public class CharacterController : MonoBehaviour
                 isJumping = true;
 
             }
-            else if(!isStarted)
+            else if (!isStarted)
             {
                 _animator.SetBool("isGameStarted", true);
                 isStarted = true;
             }
         }
-        
 
-         _animator.SetBool("isGrounded", isGrounded);
-        
+
+        _animator.SetBool("isGrounded", isGrounded);
+
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
@@ -63,5 +63,4 @@ public class CharacterController : MonoBehaviour
             isGrounded = true;
         }
     }
-
 }
