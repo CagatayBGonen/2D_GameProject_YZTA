@@ -669,7 +669,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sokoban_tilesheet@2_23
+      name: CollectibleOrange
       rect:
         serializedVersion: 2
         x: 1536
@@ -955,7 +955,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sokoban_tilesheet@2_36
+      name: CollectibleRed
       rect:
         serializedVersion: 2
         x: 1536
@@ -1241,7 +1241,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sokoban_tilesheet@2_49
+      name: CollectibleBlue
       rect:
         serializedVersion: 2
         x: 1536
@@ -1527,7 +1527,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sokoban_tilesheet@2_62
+      name: CollectibleGreen
       rect:
         serializedVersion: 2
         x: 1536
@@ -1747,7 +1747,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sokoban_tilesheet@2_72
+      name: CoinLight
       rect:
         serializedVersion: 2
         x: 1152
@@ -1769,7 +1769,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sokoban_tilesheet@2_73
+      name: CoinDark
       rect:
         serializedVersion: 2
         x: 1280
@@ -1813,7 +1813,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sokoban_tilesheet@2_75
+      name: CollectibleGrey
       rect:
         serializedVersion: 2
         x: 1536
@@ -2432,6 +2432,13 @@ TextureImporter:
       CharacterWalkRight01: -584687062
       CharacterWalkRight02: -266644475
       CharacterWalkRight03: -22317660
+      CoinDark: -435196756
+      CoinLight: 1716012958
+      CollectibleBlue: 1944406633
+      CollectibleGreen: -61096632
+      CollectibleGrey: 1823647456
+      CollectibleOrange: 1064620126
+      CollectibleRed: -1145275130
       sokoban_tilesheet@2_0: -1675719903245831832
       sokoban_tilesheet@2_1: -305149082258102805
       sokoban_tilesheet@2_10: 844779528
@@ -2450,7 +2457,6 @@ TextureImporter:
       sokoban_tilesheet@2_20: 1219274832
       sokoban_tilesheet@2_21: -351028356
       sokoban_tilesheet@2_22: -630112489
-      sokoban_tilesheet@2_23: 1064620126
       sokoban_tilesheet@2_24: 883790245
       sokoban_tilesheet@2_25: 1254393932
       sokoban_tilesheet@2_26: 2036342775
@@ -2464,7 +2470,6 @@ TextureImporter:
       sokoban_tilesheet@2_33: 1751339123
       sokoban_tilesheet@2_34: 1346706787
       sokoban_tilesheet@2_35: 1030056137
-      sokoban_tilesheet@2_36: -1145275130
       sokoban_tilesheet@2_37: 1352472134
       sokoban_tilesheet@2_38: 1485300343
       sokoban_tilesheet@2_39: -1185470762
@@ -2478,7 +2483,6 @@ TextureImporter:
       sokoban_tilesheet@2_46: -874847766
       sokoban_tilesheet@2_47: 859571358
       sokoban_tilesheet@2_48: -854539543
-      sokoban_tilesheet@2_49: 1944406633
       sokoban_tilesheet@2_5: 1933088545074434811
       sokoban_tilesheet@2_50: -1865661202
       sokoban_tilesheet@2_51: -1595820291
@@ -2493,7 +2497,6 @@ TextureImporter:
       sokoban_tilesheet@2_6: 6812403503859032674
       sokoban_tilesheet@2_60: -397542524
       sokoban_tilesheet@2_61: 1146974796
-      sokoban_tilesheet@2_62: -61096632
       sokoban_tilesheet@2_63: -1864376875
       sokoban_tilesheet@2_64: -606615260
       sokoban_tilesheet@2_65: 590659575
@@ -2504,10 +2507,7 @@ TextureImporter:
       sokoban_tilesheet@2_7: -5233496538879497140
       sokoban_tilesheet@2_70: -1176516920
       sokoban_tilesheet@2_71: -732605725
-      sokoban_tilesheet@2_72: 1716012958
-      sokoban_tilesheet@2_73: -435196756
       sokoban_tilesheet@2_74: -1939279668
-      sokoban_tilesheet@2_75: 1823647456
       sokoban_tilesheet@2_8: -7332835057498784071
       sokoban_tilesheet@2_82: -1863721931
       sokoban_tilesheet@2_83: 378864960
