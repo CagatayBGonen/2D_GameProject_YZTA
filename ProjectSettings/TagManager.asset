@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 3
   tags:
   - Ground
+  - Collectible
   layers:
   - Default
   - TransparentFX
@@ -51,7 +52,7 @@ TagManager:
   - name: Foreground
     uniqueID: 48079793
     locked: 0
-  - name: Collecta
+  - name: Collectibles
     uniqueID: 1033705983
     locked: 0
   m_RenderingLayers:
