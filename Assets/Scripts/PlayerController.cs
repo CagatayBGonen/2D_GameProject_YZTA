@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
@@ -49,6 +50,10 @@ public class PlayerController : MonoBehaviour
                 _animator.SetBool("isGameStarted", true);
                 isStarted = true;
             }
+        }
+        if (Input.GetKeyDown(KeyCode.F5))
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         }
 
 
